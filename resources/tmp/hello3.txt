@@ -1,0 +1,41 @@
+
+Hello,
+All ten of our connectors are failing to sync.  Please help!
+Thanks,
+John Doe
+
+
+
+Troubleshooting steps.
+
+1. Respond to John and tell him that you are looking into it right away.
+
+2. Check is there a service outage on the Fivetran IP used by the client https://status.fivetran.com/
+
+3. Check the account on FiveTran, is it a trial/full account is PAYG or annuall contract, 
+is there a payment owing. Is there credits remaining?
+
+4. It may be worth calling the client and guide them through how to check the logs..
+ dashboard logs to see what the failure message is.
+ If the client is unreachable, and it is permitted - check what the error messages are 
+ from FiveTran for the client. ( I am not sure if Support can access this or only visible on the Client side)
+ 
+ 
+5. Depending on the result of 4 
+ 5a. Check if your Firewall settings have changed and may be now preventing Fivetran from accessing. 
+ 5b. Check if your database is blocking Fivetran's access via permission changes. 
+ 5c. Run some checks on sync start and end times and troubleshhot errors and warnings 
+ https://fivetran.com/docs/logs/fivetran-log/sample-queries#checkconnectorstatus
+ 5d. Check if there is issues with destination (eg no disk space or memory)
+ 
+6. From the logs review previous similar tickets
+ 
+4. Ask the client to check dashboard / external 
+
+Check the status for the customer on FiveTran server, server logs, connector logs.
+
+
+
+Hi John,
+
+Im sorry to hear that 

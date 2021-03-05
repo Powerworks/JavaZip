@@ -1,0 +1,53 @@
+
+
+what have I been doing at B3DS
+
+has to tie back to INFO from website
+
+Build core functionality through Spring 
+design and dashboards using PowerBI
+create data models for analytical analysis
+building RESTful Spring apps deployed on Azure.
+Write unit, integration, and post-deployment tests.
+
+
+
+
+
+Next you must add JPA support in the Spring Data JPA module to enable finder method completion and error checking of repositories.
+
+
+and Book, involved in a bidirectional lazy @OneToMany association. In Figure 1-1, you can see the corresp
+
+
+
+
+Summary Profile:
+ 
+ Higly skilled software development professional bring more than 10 years 
+ in software design, development and integration.
+ 
+ 4+ years Java EE, Spring, Spring Boot, Spring Cloud building microservice based applications.
+ 
+ Hands on experience in ETL/ELT technologies as well as reporting tools/ BI tools.
+  
+ Extensive cloud computing experience, in particular Azure services.
+ 
+ Higly skilled software development professional bring more than 10 years 
+ in software design, development and integration. 
+ 
+ Advanced knowlede of Oracle SQL, PL/SQL and MS T-SQL.
+ 
+ Java, .NET, C#, 
+ J2EE
+ 
+ Implement Spring MVC fr
+ 
+  
+ 
+     • Over 10 years of post qualified experience gained across a range of businesses across Ireland, Canada and UAE
+    • Excellent Software management skills, PMP certified 
+    • Specialist in Java development, data management principles,  software development processes and clinical electronic health record systems
+    • Passion for continual improvement and ability to apply automation to benefit business flows and contribute to profitability
+	
+	

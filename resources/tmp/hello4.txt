@@ -1,0 +1,25 @@
+
+
+Assume that you provided a workaround for a bug. The customer is not 
+satisfied with the workaround and indicates that our engineering team needs 
+to re-prioritize the issue and provide an immediate fix since 
+it is affecting their business. 
+However, our engineering is guaranteeing a fix will be deployed at the end of 
+the quarter. Please provide your response to the customer.
+
+
+Greetings bro,
+
+
+
+
+I can understand you want this issue resolved immediately however we need to 
+through the correct proper assessment, fix, test and deploy strategy so we 
+correctly address the issue.
+The last thing we want to do is apply an incomplete fix and have the problem perist.
+As I have been informed by the developers, it is scheduled to be fixed in the next quarter,
+kindly use the workaround as provided until then to minimize the impact on your workflow.
+
+
+
+
